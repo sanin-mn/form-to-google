@@ -1,0 +1,23 @@
+{
+    "name": "form-to-google",
+    "version": "1.0.0",
+    "description": "Easily connect your website's HTML form to a Google Form and Google Sheets.",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "echo \"No tests yet\""
+    },
+    "keywords": [
+      "form",
+      "google-form",
+      "google-sheets",
+      "html-form",
+      "form-to-google"
+    ],
+    "author": "sanin-mn",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/sanin-mn/form-to-google"
+    }
+  }
+  
