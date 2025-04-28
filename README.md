@@ -24,11 +24,13 @@ npm install form-to-google
 
 For example, your form URL might look like:
 `https://docs.google.com/forms/d/e/YOUR_FORM_ID/formResponse`
+
 ![Coping Response uRl](./images/Pasted-image.png)
 
 ### 2. Map Your Form Fields to Google Form
 
 * In your Google Form, each input field has an associated `entry.xxxxx` ID that will be used to map your form fields. To get the `entry.xxxxx` IDs, inspect the Google Form source code (Right-click -> Inspect on the input field).
+
 ![Coping field entry code](./images/Pasted-image-2.png)
 
 ### 3. Connect Your HTML Form to Google Form Using form-to-google
